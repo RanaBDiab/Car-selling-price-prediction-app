@@ -43,8 +43,8 @@ predict_button = st.button('Predict')
 if predict_button == True:
     
     # loading scalers and model
-    Scaler = joblib.load('Scaler.sav')
-    Target_scaler = joblib.load('Target_scaler.sav')
+    Scaler = joblib.load('Scaler.pkl')
+    Target_scaler = joblib.load('Target_scaler.pkl')
     Model = joblib.load('Model.sav')
     
 
