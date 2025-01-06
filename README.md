@@ -1,1 +1,1 @@
-App link : https://car-selling-price-prediction-app-submission.streamlit.app/
+App link : https://car-selling-price-prediction-app.streamlit.app/
