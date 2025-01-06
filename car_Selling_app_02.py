@@ -143,6 +143,10 @@ with dashboard:
         st.plotly_chart(price_year_fig, use_container_width=True)
 
 
+st.write('')
+st.write('')
+st.write('')
+
 # building model tab
 
 with model_tab:
